@@ -1,0 +1,26 @@
+{
+  "name": "node-cron-jobs",
+  "version": "1.0.0",
+  "description": "A demo api for node job scheduler build with expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahireharshal/node-cron-jobs.git"
+  },
+  "keywords": [],
+  "author": "ahireharshal@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahireharshal/node-cron-jobs/issues"
+  },
+  "homepage": "https://github.com/ahireharshal/node-cron-jobs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-schedule": "^1.3.2",
+    "nodemon": "^2.0.4"
+  }
+}
