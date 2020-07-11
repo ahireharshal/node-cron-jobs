@@ -1,5 +1,5 @@
 # node-cron-jobs
-A demo api for node job scheduler build with expressjs
+A demo api for node job scheduler build with expressjs.
 
 ## Getting started
 1. Clone repo locally
